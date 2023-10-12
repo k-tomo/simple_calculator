@@ -1,5 +1,5 @@
 # simple_calculator
-RiverPodとFreezedを使ってMVVMモデルの実装方法を学習するためのシンプルな電卓アプリです．
+RiverpodとFreezedを使ってMVVMモデルの実装方法を学習するためのシンプルな電卓アプリです．
 
 ## Requirement
 * analyzer: ^6.2.0
