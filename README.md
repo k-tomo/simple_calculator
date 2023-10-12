@@ -1,16 +1,11 @@
 # simple_calculator
+RiverPodとFreezedを使ってMVVMモデルの実装方法を学習するためのシンプルな電卓アプリです．
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Requirement
+* analyzer: ^6.2.0
+* freezed: ^2.4.3
+* build_runner: ^2.4.6
+* json_serializable: ^6.7.1
+* flutter_riverpod: ^2.1.1
+* freezed
+* freezed_annotation: ^2.4.1
